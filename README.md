@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-music
 
 > Vue.js 高级实战——音乐 App 课程源码，课程地址： http://coding.imooc.com/class/107.html
@@ -36,3 +37,7 @@
 ## Bug 修复
 
 由于项目有一定复杂度，所以难免会有 bug，同学们在发现有 bug 的话可以通过 issue 的方式提问，我都会解决。当然更欢迎同学们可以提供 pull request，一起帮助完善这个项目。
+=======
+# music
+music
+>>>>>>> 512124be16fef9a0993593b6db7c6c9b9be3af58
